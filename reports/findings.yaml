@@ -60,3 +60,9 @@ monitoring:
   mae_v1_on_check: null    # v1 on the last 30% of later.csv (by date)
   mae_v2_on_check: null    # v2 on the same rows
   decision: null           # promote or keep
+
+  tracking:
+  experiment_name: "mp253_tiffin_relay"
+  best_run_id: "8c25221f5fb34cd5b11ccfbd2e65292b"
+  registered_model_name: "mp253-tiffin-delivery"
+  champion_version: "2"
